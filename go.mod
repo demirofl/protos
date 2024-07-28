@@ -1,4 +1,4 @@
-module protos
+module github.com/demirofl/protos
 
 go 1.22
 
